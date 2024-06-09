@@ -22,5 +22,11 @@
         "appd": "Lets you run broken Minecraft 1.5.2 in WebDesk!",
         "appc": "https://webdesk-apps.vercel.app/eaglercraft/index.js",
         "apps": "t"
-    }
+    },
+    "squaredeek":{
+        "appn": "S Q U A R E",
+        "appd": "square webdesk. app by nova (@novafurry)",
+        "appc": "./assets/apps/S_Q_U_A_R_E.js",
+        "apps": "t"
+    },
 }
